@@ -1,0 +1,1 @@
+A new user(id={{ user.id }}, name={{ user.username }}) visit your website!
